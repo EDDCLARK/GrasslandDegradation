@@ -11,5 +11,5 @@ This repository hosts the code for detecting and attributing the grassland degra
 
 The detailed description of this method can be found in the following papers.
 ## References
-1.Yanbo Zhao, Wang Jie, Zhang Geli, Liu Luo, Yang Jilin, Wu Xiaocui, Biradar Chandrashekhar, Dong Jinwei, Xiao Xiangming. Divergent trends in grassland degradation and desertification under land use and climate change in Central Asia from 2000 to 2020[J]. Ecological Indicators, 2023, 154: 110737
-2.Yanbo Zhao, Chang Chuchen, Zhou Xiaoli, Zhang Geli, Wang Jie. Land use significantly improved grassland degradation and desertification states in China over the last two decades[J]. JOURNAL OF ENVIRONMENTAL MANAGEMENT, 2024, 349: 119419
+1. Yanbo Zhao, Wang Jie, Zhang Geli, Liu Luo, Yang Jilin, Wu Xiaocui, Biradar Chandrashekhar, Dong Jinwei, Xiao Xiangming. Divergent trends in grassland degradation and desertification under land use and climate change in Central Asia from 2000 to 2020[J]. Ecological Indicators, 2023, 154: 110737  
+2. Yanbo Zhao, Chang Chuchen, Zhou Xiaoli, Zhang Geli, Wang Jie. Land use significantly improved grassland degradation and desertification states in China over the last two decades[J]. JOURNAL OF ENVIRONMENTAL MANAGEMENT, 2024, 349: 119419
